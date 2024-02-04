@@ -58,7 +58,7 @@ export const ITEMS: ItemType[] = [
   },
   {
     id: "jj-first-drunk",
-    label: "JJ first to be drunk",
+    label: "Nina Dances",
   },
   {
     id: "you-always",
