@@ -22,10 +22,6 @@ interface Props {
 }
 
 const Item = ({ label, completed, bingo, toggle }: Props) => {
-  if (label === "Dad saying all quotes") {
-    console.log("completed", completed);
-    console.log("bingo", bingo);
-  }
   return (
     <Card primary={bingo} secondary={completed && !bingo}>
       <StyledItem onClick={toggle}>{label}</StyledItem>

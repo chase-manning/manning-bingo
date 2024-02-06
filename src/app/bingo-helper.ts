@@ -23,7 +23,6 @@ const getDiagonal = (
 ): "A" | "B" | "X" | null => {
   const itemIndex = allItems.indexOf(item);
   if (itemIndex === 12) {
-    console.log(item);
     return "X";
   }
   if (itemIndex % 6 === 0) return "A";
