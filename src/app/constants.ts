@@ -38,7 +38,7 @@ export const ITEMS: ItemType[] = [
   },
   {
     id: "stop-it",
-    label: "Leo saying stopitaaaaahh",
+    label: "Leo saying stopit aaaaahh",
   },
   {
     id: "fashon-judge",
@@ -70,11 +70,11 @@ export const ITEMS: ItemType[] = [
   },
   {
     id: "sky-complain",
-    label: "Someone complaining about Sky",
+    label: "Complaining about anothers partner",
   },
   {
     id: "nina-money",
-    label: "Siane giving Nina money",
+    label: "Siane Showing off fashion item",
   },
   {
     id: "snapchat-redo",
